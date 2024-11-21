@@ -1,3 +1,4 @@
 {
-  "core": "https://core.public.infstones.com"
+  "core": "https://core.public.infstones.com",
+  "bsc": "https://endpoints.omniatech.io/v1/bsc/mainnet/public"
 }
